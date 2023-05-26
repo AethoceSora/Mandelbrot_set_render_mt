@@ -1,5 +1,7 @@
 #include <pthread.h>
+#include <stdlib.h> 
 #include <stdio.h>
+#include <unistd.h>
 #include <assert.h>
 #include <math.h>
 
